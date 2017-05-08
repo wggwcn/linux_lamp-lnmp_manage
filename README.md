@@ -38,5 +38,13 @@ auto install apach/nginx php ftp
 <li>重写软件管理模块</li>
 <li>其它细节更新</li>
 </ul>
+<p><a href="http://www.bt.cn"><img src="https://www.bt.cn/Public/images/linux_pc.png" alt="ScrollReveal Demo" data-canonical-src="" style="max-width:100%;"></a></p>
 
-<p><img src="www.bt.cn/bbs/newsimg/pic4.png" width="100%"></p>
+
+
+
+<p><a href="http://www.bt.cn"><img src="http://www.bt.cn/bbs/newsimg/pic4.png" alt="ScrollReveal Demo" data-canonical-src="" style="max-width:100%;"></a></p>
+
+
+
+
