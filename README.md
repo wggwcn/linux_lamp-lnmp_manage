@@ -1,6 +1,6 @@
 # linux_lamp-lnmp_manage
 
-auto install apach/nginx php ftp
+auto install apach/nginx php ftp    面板由：www.bt.cn 团队开发
 
 ---
 1 install lamp_lnmp manager<br>
